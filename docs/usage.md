@@ -90,7 +90,7 @@ mew
 >>> kakuna = pokepy.V2Client().get_pokemon(14)
 >>> kakuna
 <Pokemon - Kakuna>
->>> kakuna.weigth
+>>> kakuna.weight
 100
 ```
 
